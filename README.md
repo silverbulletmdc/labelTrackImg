@@ -18,5 +18,7 @@ Execute the following command to start project.
 python labelImg.py
 ```
 补充:缺啥少啥就pip install啥
+
 PS: lack what less what then you pip install what
+
 For more details, you can read the [original repo](https://github.com/tzutalin/labelImg).
