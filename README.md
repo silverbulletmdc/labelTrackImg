@@ -1,5 +1,5 @@
 ### labelTrackImg
-This is a useful tool to label temporal sequence images based on labelImg project.
+This is a useful tool to label temporal sequence images based on [labelImg](https://github.com/tzutalin/labelImg) project.
 
 I change a little code of labelImg to fit the tracking label task.
 
@@ -18,4 +18,4 @@ Execute the following command to start project.
 python labelImg.py
 ```
 
-For more details, you can read the original repo.
+For more details, you can read the [original repo](https://github.com/tzutalin/labelImg).
